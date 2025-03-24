@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Art Space app</string>
+    <string name="foto1">Obra Monalisa, feita em 1503 pelo artista italiano Leonardo da Vinci</string>
+    <string name="foto2">Obra A Lua, feita em 1928 pela artista brasileira Tarsila do Amaral</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
